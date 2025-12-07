@@ -14,4 +14,4 @@ A minimalistic DSL for designing and visualizing neural network architectures.
 Creating accessible tools that bridge the gap between research and implementation.
 
 ## Contact
-[Ton email/GitHub profile]
+https://github.com/Lemniscate-world
