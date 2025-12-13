@@ -15,7 +15,6 @@ Metatron – A minimal CLI that turns LLM code generation into a stepwise, expla
 Automatons – Python-powered bots and automations for diverse workflows.
 
 …plus other projects in progress — all aligned around smarter tooling and accelerated AI workflows. 
-GitHub
 
 ✨ Our Philosophy
 
