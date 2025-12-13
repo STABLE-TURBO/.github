@@ -33,7 +33,7 @@ If you’re here, you’re already part of the future we’re designing.
 Want to contribute or explore?
 
 Browse the repositories in this organization. 
-GitHub
+
 
 Find a project that aligns with your passions.
 
